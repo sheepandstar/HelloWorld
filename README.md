@@ -1,8 +1,2 @@
-# HelloWorld
-
-###  打印HelloWorld
-
-
-```python
-print('HelloWorld')
-```
+# 7.16-7.18 python函数、异常处理/模块/包
+# 7.19-7.23 面向对象
